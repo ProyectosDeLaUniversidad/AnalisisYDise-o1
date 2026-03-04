@@ -1,0 +1,20 @@
+header{
+    background-color: beige;
+    border-radius: 15px;
+    color: rgb(255, 51, 0);
+    padding: 55px;
+
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+
+}
+
+#imagen-conga{
+    width: 170px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: 0 0 15px black;
+
+}
